@@ -102,3 +102,4 @@ ENV/
 test1.py
 
 .pypirc
+*.whl
